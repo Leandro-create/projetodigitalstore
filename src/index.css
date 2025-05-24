@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+.swiper-pagination-bullet-active {
+  background-color: #c92071; 
+}
+
+.swiper-pagination-bullet {
+    width: 15px;
+    height: 15px;
+}
+
+.swiper-button-next,
+.swiper-button-prev {
+  color: #474747;
+}
