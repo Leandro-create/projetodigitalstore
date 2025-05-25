@@ -5,10 +5,10 @@ import 'swiper/css/pagination';
 
 const Gallery = () => {
   const imagens = [
-    "../../imagens/home-slide-7.jpeg",
-    "../../imagens/home-slide-6.jpeg",
-    "../../imagens/home-slide-1.jpeg",
-    "../../imagens/home-slide-8.jpeg",
+    "/digitalstore/images/home-slide-7.jpeg",
+    "/digitalstore/images/home-slide-6.jpeg",
+    "/digitalstore/images/home-slide-1.jpeg",
+    "/digitalstore/images/home-slide-8.jpeg",
   ];
 
   return (

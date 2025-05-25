@@ -1,7 +1,7 @@
-import logofooter from "../../imagens/logo-footer.svg"
-import facebook from "../../imagens/facebook.svg"
-import instagram from "../../imagens/instagram.svg"
-import x from "../../imagens/twitter.svg"
+import logofooter from "/digitalstore/images/logo-footer.svg"
+import facebook from "/digitalstore/images/facebook.svg"
+import instagram from "/digitalstore/images/instagram.svg"
+import x from "/digitalstore/images/twitter.svg"
 import Logos from "./Logo"
 
 

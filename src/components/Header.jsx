@@ -1,8 +1,8 @@
 import { useState, useEffect } from "react";
 import { NavLink } from "react-router-dom";
-import cart from '../../imagens/mini-cart.svg';
+import cart from '/digitalstore/images/mini-cart.svg';
 import Logos from "./Logo";
-import logoheader from "../../imagens/logo-header.svg";
+import logoheader from "/digitalstore/images/logo-header.svg";
 
 const Header = () => {
   const [showSidebar, setShowSidebar] = useState(false);

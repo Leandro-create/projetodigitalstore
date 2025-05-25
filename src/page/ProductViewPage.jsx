@@ -50,10 +50,10 @@ const product = {
     priceDiscount: 720.99,
     description: "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Alias ut reprehenderit dolor nisi tempore consequatur in distinctio aperiam illum voluptas. Nemo alias, error ratione reiciendis repellat aliquam doloremque maxime provident!",
     images: [
-      { src: "../../imagens/slide1.avif" },
-      { src: "../../imagens/slide2.avif" },
-      { src: "../../imagens/slide3.avif" },
-      { src: "../../imagens/slide4.avif" }
+      { src: "/digitalstore/images/slide1.avif" },
+      { src: "/digitalstore/images/slide2.avif" },
+      { src: "/digitalstore/images/slide3.avif" },
+      { src: "/digitalstore/images/slide4.avif" }
     ]
   };
 
@@ -61,28 +61,28 @@ const product = {
     {
       id: 1,
       name: "Tênis Nike Flex Experience 12 - Feminino",
-      image: "../../imagens/nike-feminio2.avif",
+      image: "/digitalstore/images/nike-feminio2.avif",
       price: 450,
       priceDiscount: 190,
     },
     {
       id: 1,
       name: "BigShot Light 4 - Feminino",
-      image: "../../imagens/kswiss-feminino.webp",
+      image: "/digitalstore/images/kswiss-feminino.webp",
       price: 600,
       priceDiscount: 500,
     },
     {
       id: 1,
       name: "Runner Sneakers - Unisex",
-      image: "../../imagens/balanciaga-feminino.avif",
+      image: "/digitalstore/images/balanciaga-feminino.avif",
       price: 300,
       priceDiscount: 250,
     },
     {
       id: 1,
       name: "Tênis Puma RS-X 3D Cinza",
-      image: "../../imagens/puma-feminino.avif",
+      image: "/digitalstore/images/puma-feminino.avif",
       price: 300,
       priceDiscount: 249,
     }

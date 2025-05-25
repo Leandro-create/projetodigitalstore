@@ -12,7 +12,7 @@ const BuyBox = ({name, reference, stars, rating, price, priceDiscount, descripti
         <Rating value={stars} readOnly stars={5} cancel={false} />
         <div className="flex items-center gap-1 bg-[#f6aa1c] text-white text-[14px] rounded-[4px] px-2 py-1">
           {stars}
-          <img src="../../imagens/star-icon.svg" alt="estrela" className="w-4 h-4" />
+          <img src="/digitalstore/images/star-icon.svg" alt="estrela" className="w-4 h-4" />
         </div>
         <p className="text-[14px] text-[#8f8f8f]">{rating} avaliações</p>
       </div>
